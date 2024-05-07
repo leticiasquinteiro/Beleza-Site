@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cabecalho{
+    display: inline-flex;
+    align-items: center;
+    gap: 100px;
+
+    padding-left: 100px;
+
+    background-color: #E6DAD1;
+}
+
+.cabecalho img{
+    height: 650px;
+}
+
+.cabecalho-info{
+    text-align: center;
+    color: #9D5A4D;
+}
+
+.cabecalho-info h1{
+    font-size: 4em;
+}
+
+.cabecalho-info h2{
+    font-size: 2em;
+}
+
+.cabecalho-info p{
+    font-size: 1.2em;
+}
+
