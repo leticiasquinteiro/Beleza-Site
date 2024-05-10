@@ -34,3 +34,35 @@
     font-size: 1.2em;
 }
 
+.introducao{
+    display: inline-flex;
+    align-items: center;
+    gap: 100px;
+    
+    padding: 50px;
+
+    background-color: #9D5A4D;
+    height: 600px;
+}
+
+.introducao .um{
+    height: 500px;
+}
+
+.introducao .dois{
+    height: 350px;
+}
+
+.intro-info{
+    text-align: center;
+    color: #E6DAD1;
+}
+
+.intro-info h2{
+    font-size: 2.5em;
+    padding-bottom: 100px;
+}
+
+.intro-info p{
+    font-size: 1.5em;
+}
